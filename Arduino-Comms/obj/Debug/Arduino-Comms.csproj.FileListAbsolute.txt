@@ -1,0 +1,12 @@
+c:\users\akavoukis\documents\visual studio 2013\Projects\Arduino-Comms\Arduino-Comms\bin\Debug\Arduino-Comms.exe.config
+c:\users\akavoukis\documents\visual studio 2013\Projects\Arduino-Comms\Arduino-Comms\bin\Debug\Arduino-Comms.exe
+c:\users\akavoukis\documents\visual studio 2013\Projects\Arduino-Comms\Arduino-Comms\bin\Debug\Arduino-Comms.pdb
+c:\users\akavoukis\documents\visual studio 2013\Projects\Arduino-Comms\Arduino-Comms\obj\Debug\Arduino-Comms.csprojResolveAssemblyReference.cache
+c:\users\akavoukis\documents\visual studio 2013\Projects\Arduino-Comms\Arduino-Comms\obj\Debug\Arduino_Comms.Properties.Resources.resources
+c:\users\akavoukis\documents\visual studio 2013\Projects\Arduino-Comms\Arduino-Comms\obj\Debug\Arduino-Comms.csproj.GenerateResource.Cache
+c:\users\akavoukis\documents\visual studio 2013\Projects\Arduino-Comms\Arduino-Comms\obj\Debug\Arduino-Comms.exe
+c:\users\akavoukis\documents\visual studio 2013\Projects\Arduino-Comms\Arduino-Comms\obj\Debug\Arduino-Comms.pdb
+c:\users\akavoukis\documents\visual studio 2013\Projects\Arduino-Comms\Arduino-Comms\bin\Debug\CoreAudioApi.dll
+c:\users\akavoukis\documents\visual studio 2013\Projects\Arduino-Comms\Arduino-Comms\obj\Debug\Arduino_Comms.MainForm.resources
+c:\users\akavoukis\documents\visual studio 2013\Projects\Arduino-Comms\Arduino-Comms\obj\Debug\CoreAudioSample.VolumeSettingsForm.resources
+c:\users\akavoukis\documents\visual studio 2013\Projects\Arduino-Comms\Arduino-Comms\obj\Debug\Arduino_Comms.SerialPortSettingsForm.resources
